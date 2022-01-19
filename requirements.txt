@@ -1,0 +1,15 @@
+asgiref
+Django
+pytz
+sqlparse
+typing-extensions
+djangorestframework
+markdown
+django-filter
+gunicorn
+Pygments
+PyJWT
+sendgrid
+stripe
+python-dotenv
+psycopg2
